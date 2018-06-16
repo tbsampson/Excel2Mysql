@@ -1,0 +1,17 @@
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\Excel2Mysql.exe.config
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\Excel2Mysql.exe
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\Excel2Mysql.pdb
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\ExcelDataReader.DataSet.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\ExcelDataReader.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\Google.Protobuf.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\MySql.Data.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\ExcelDataReader.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\ExcelDataReader.DataSet.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\Google.Protobuf.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Release\MySql.Data.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.Form1.resources
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.Properties.Resources.resources
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.csproj.GenerateResource.Cache
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.exe
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.pdb
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Release\Excel2Mysql.csprojResolveAssemblyReference.cache

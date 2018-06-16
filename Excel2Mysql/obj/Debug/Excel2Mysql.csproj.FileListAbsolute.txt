@@ -1,0 +1,17 @@
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\Excel2Mysql.exe.config
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\Excel2Mysql.exe
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\Excel2Mysql.pdb
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.Properties.Resources.resources
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.csproj.GenerateResource.Cache
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.exe
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.pdb
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.Form1.resources
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\Google.Protobuf.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\MySql.Data.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\Google.Protobuf.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\MySql.Data.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\ExcelDataReader.DataSet.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\ExcelDataReader.dll
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\ExcelDataReader.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\bin\Debug\ExcelDataReader.DataSet.xml
+F:\freelancer\3_work\excel_c3_2018_06\work\Excel2Mysql\Excel2Mysql\obj\Debug\Excel2Mysql.csprojResolveAssemblyReference.cache
